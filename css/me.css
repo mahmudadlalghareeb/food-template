@@ -464,7 +464,7 @@ header .nav li a:hover {
 
   header .nav.active li a {
     color: #111;
-    font-size: 20px;
+    font-size: 15px;
     display: block;
     margin-bottom: 20px;
     transition: all 0.4s;
@@ -650,13 +650,12 @@ header .nav li a:hover {
     flex-basis: 100%;
     margin-bottom: 10%;
   }
-
   .expert-imgs .image img {
     width: 100%;
     margin-bottom: 15px;
   }
   .expert-imgs .image p {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   /* testimonials */
