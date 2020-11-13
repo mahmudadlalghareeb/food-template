@@ -599,7 +599,7 @@ header .nav li a:hover {
     font-size: 30px;
   }
   .menu-text p {
-    font-size: 9px;
+    font-size: 7px;
   }
   .menu-imgs {
     justify-content: space-around;
@@ -633,7 +633,9 @@ header .nav li a:hover {
   .expert-text {
     margin-bottom: 30px;
   }
-
+  .expert-text p {
+    font-size: 7px;
+  
   .expert-text h3 {
     font-size: 20px;
   }
@@ -672,7 +674,7 @@ header .nav li a:hover {
     font-size: 30px;
   }
   .testimonial-text p {
-    font-size: 10px;
+    font-size: 7px;
   }
   .testimonials {
     justify-content: space-around;
@@ -715,7 +717,7 @@ header .nav li a:hover {
     font-size: 30px;
   }
   .contact-text p {
-    font-size: 9px;
+    font-size: 7px;
   }
   .contacts {
     justify-content: center;
@@ -752,6 +754,6 @@ header .nav li a:hover {
   .copyright p {
     margin: 0;
     margin-top: 50px;
-    font-size: 8px;text-align: center;
+    font-size: 7px;text-align: center;
   }
 }
