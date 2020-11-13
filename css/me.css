@@ -462,7 +462,8 @@ header .nav li a:hover {
     background-color: #fff;
   }
 
-  header .nav.active li a {
+  header .nav.active li a,
+  header.sticky .nav.active {
     color: #111;
     font-size: 15px;
     display: block;
@@ -486,7 +487,8 @@ header .nav li a:hover {
     transition: all 0.4s;
   }
   header.sticky .nav li a:hover,
-  header .nav.active li a:hover {
+  header .nav.active li a:hover ,
+  header.sticky .nav.active li a:hover {
     color: #ff0175;
   }
   .logo {
