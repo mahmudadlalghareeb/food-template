@@ -730,7 +730,7 @@ header .nav li a:hover {
     font-size: 18px;
   }
   .contact-us input {
-    padding: 7px;
+    padding: 6px;
   }
   .contact-us textarea {
     padding: 7px;
@@ -752,6 +752,6 @@ header .nav li a:hover {
   .copyright p {
     margin: 0;
     margin-top: 50px;
-    font-size: 9px;
+    font-size: 8px;text-align: center;
   }
 }
