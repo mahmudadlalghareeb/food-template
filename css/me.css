@@ -462,7 +462,7 @@ header .nav li a:hover {
   }
 
   header .nav.active li a,
-  header.sticky .nav.active {
+  header.sticky .nav.active a{
     color: #111;
     font-size: 15px;
     display: block;
