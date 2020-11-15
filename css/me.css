@@ -435,10 +435,10 @@ header .nav li a:hover {
     font-size: 30px;
     color: #fff;
     position: relative;
-    top: 3px;
     margin-top: 14px;
     vertical-align: middle;
-    display: inline-block;margin-right: 5px;
+    display: inline-block;
+    margin-right: 5px;
   }
   header,
   header.sticky {
