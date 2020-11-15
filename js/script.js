@@ -19,5 +19,4 @@ function toggle() {
     icon[1].style.display = "none";
   }
   nav.classList.toggle("active");
-  links.classList.toggle("active");
 }
